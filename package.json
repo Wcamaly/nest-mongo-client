@@ -1,6 +1,6 @@
 {
   "name": "nest-mongo-client",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "",
   "author": "Walter Camaly <waltercamaly@gmail.com>",
   "private": false,
