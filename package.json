@@ -14,7 +14,7 @@
     "format:check": "prettier --check \"src/**/*.ts\"",
     "format:write": "prettier --write \"src/**/*.ts\"",
     "update:version": "npm version patch -m \"Update version %s\"",
-    "publish": "npm run build && npm run update:version && npm publish"
+    "npm:publish": "npm run build && npm run update:version && npm publish"
   },
   "keywords": [
     "mongo",
