@@ -1,6 +1,6 @@
 {
   "name": "nest-mongo-client",
-  "version": "0.0.23",
+  "version": "0.0.18",
   "description": "",
   "author": "Walter Camaly <waltercamaly@gmail.com>",
   "private": false,
@@ -36,7 +36,6 @@
   "dependencies": {
     "@nestjs/common": "^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0",
     "@nestjs/core": "^6.0.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0",
-    "@nestjs/platform-express": "^9.0.0",
     "mongodb": "^3.1.0 || ^4.0.0 || ^6.0.0",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^6.0.0 || ^7.0.0"
